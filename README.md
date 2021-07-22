@@ -60,8 +60,14 @@ BTT 24/35 encoder serial (SPI) TFT that emulates a st7920 LCD:  https://github.c
 Prusa mini+ encoder serial (SPI) TFT: https://github.com/KevinOConnor/klipper/pull/4374
 
 ### **Marlin**
-	
-Marlin UI PRs
+
+_Marlin ExtUI tweaks:_
+
+- Jyers: https://github.com/Jyers/Marlin/wiki
+- mriscoc: https://github.com/mriscoc/Marlin_Ender3v2/releases/tag/2.0.9.X
+- otiss: https://otioss.com/posts/ender3-v2-front-panel  
+
+_Marlin UI PRs_
 - The Eg: https://github.com/MarlinFirmware/Marlin/pull/22211
 - thinkyhead: https://github.com/MarlinFirmware/Marlin/pull/19371
 - animations: https://github.com/MarlinFirmware/Marlin/pull/19395
