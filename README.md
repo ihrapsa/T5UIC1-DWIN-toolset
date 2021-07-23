@@ -35,6 +35,8 @@ While browsing through the dwin dev forum I found a series of tools for this typ
 
 	</details>
 
+* **dwin-ico-tools** - Tool created by [b-pub](https://github.com/b-pub/dwin-ico-tools) to pack and unpack `9.ICO` files. Check his [README.md](https://github.com/b-pub/dwin-ico-tools/blob/main/README.md) for how to use it	
+
 ## Links:  
 
 ### **Tools & docs**
